@@ -1,0 +1,9 @@
+2026-10-17 20:47:13,504 - INFO - Scraper run started
+2026-10-17 20:47:14,010 - INFO - Parsed 189 country rows
+2026-10-17 20:47:14,018 - WARNING - 104 missing inflation values (dropped)
+2026-10-17 20:47:14,030 - INFO - Run complete: 1786 rows saved, 1 issues: ['104 missing inflation values (dropped)']
+2026-10-17 20:47:43,539 - INFO - Scraper run started
+2026-10-17 20:47:44,037 - INFO - Parsed 189 country rows
+2026-10-17 20:47:44,046 - WARNING - 104 missing inflation values (dropped)
+2026-10-17 20:47:44,057 - INFO - Run complete: 1786 rows saved, 1 issues: ['104 missing inflation values (dropped)']
+2026-10-17 20:47:44,058 - INFO - Scheduler started, next run daily at 09:00
